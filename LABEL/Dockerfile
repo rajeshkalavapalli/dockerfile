@@ -1,4 +1,4 @@
 FROM almalinux:9 
-LABLE name="Rajesh"\
-       course="devops"\
+LABLE name="Rajesh" \
+       course="devops" \
        discription="docker practice"
